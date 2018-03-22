@@ -1,0 +1,6 @@
+C:\Users\mwarkentin\Documents\Visual Studio 2015\Projects\02 SAP-Basis\KOFAX-Script\KOFAX-Script\bin\Debug\KOFAX-Script.exe.config
+C:\Users\mwarkentin\Documents\Visual Studio 2015\Projects\02 SAP-Basis\KOFAX-Script\KOFAX-Script\bin\Debug\KOFAX-Script.exe
+C:\Users\mwarkentin\Documents\Visual Studio 2015\Projects\02 SAP-Basis\KOFAX-Script\KOFAX-Script\bin\Debug\KOFAX-Script.pdb
+C:\Users\mwarkentin\Documents\Visual Studio 2015\Projects\02 SAP-Basis\KOFAX-Script\KOFAX-Script\obj\Debug\KOFAX-Script.csprojResolveAssemblyReference.cache
+C:\Users\mwarkentin\Documents\Visual Studio 2015\Projects\02 SAP-Basis\KOFAX-Script\KOFAX-Script\obj\Debug\KOFAX-Script.exe
+C:\Users\mwarkentin\Documents\Visual Studio 2015\Projects\02 SAP-Basis\KOFAX-Script\KOFAX-Script\obj\Debug\KOFAX-Script.pdb
